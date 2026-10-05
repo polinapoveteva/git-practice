@@ -1,2 +1,2 @@
 Полина Поветьева
-poveteva08@bk.ru
+poveteva08@bk.ruКонфликтная строка из ветки feature-conflict
